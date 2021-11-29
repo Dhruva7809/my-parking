@@ -1,0 +1,7 @@
+app.db
+my-parking.exe
+/frontend/my-parking/node_modules/
+/frontend/my-parking/dist/
+/.vscode/
+/frontend/my-parking/.vscode/
+/frontedn/my-parking/.DS_Store

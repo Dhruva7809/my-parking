@@ -1,0 +1,18 @@
+{
+    "locations": [
+        {
+            "location": "Bennett University, Greater Noida",
+            "ParkingName": "Gautam Buddh Nagar Parking",
+            "distance": "200m",
+            "slots": 10,
+            "rate": "Rs. 2"
+        },
+        {
+            "location": "Bennett University, Greater Noida",
+            "ParkingName": "Gautam Buddh Nagar Parking 2",
+            "distance": "50m",
+            "slots": 6,
+            "rate": "Rs. 4"
+        }
+    ]
+}
